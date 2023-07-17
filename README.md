@@ -7,10 +7,10 @@
 - 📫 可以提issue
 - ⚡ 喜欢打篮球,玩电脑游戏,喜欢做认为有意义的事情,并完全投入其中
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/HK-hub">
+<a href="https://github.com/ZY945">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy945&langs_count=3" />
 </a>
-<a href="https://github.com/HK-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zy945&show_icons=true&line_height=27&count_private=true" alt="HK-hub's GitHub Stats" />
+<a href="https://github.com/ZY945">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zy945&show_icons=true&line_height=27&count_private=true" alt="ZY's GitHub Stats" />
 </a>
 <p></p>

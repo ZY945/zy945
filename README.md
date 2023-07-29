@@ -4,7 +4,7 @@
 - 👯 仓库有一个小屋项目,目的是整合自己的所学,同时这个可以作为编程爱好者的学习思路,以解决问题来学习技术,同时反馈解决问题
 - 🤔 对于时序和向量数据库不是很熟悉
 - 💬 有相关问题,十分乐意一起讨论
-- 📫 可以提issue,[语雀(联系+笔记)](https://www.yuque.com/zhangyang.com)
+- 📫 可以提issue,[语雀(联系+笔记)](https://www.yuque.com/zhangyang.com)[gitee](https://gitee.com/dongfeng407)
 - ⚡ 喜欢打篮球,玩电脑游戏,喜欢做认为有意义的事情,并完全投入其中
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ZY945">

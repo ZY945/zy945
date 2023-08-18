@@ -6,7 +6,7 @@
 - 💬 有相关问题,十分乐意一起讨论
 - 📫 可以提issue,[语雀(联系+笔记)](https://www.yuque.com/zhangyang.com)[gitee](https://gitee.com/dongfeng407)
 - ⚡ 喜欢打篮球,玩电脑游戏,喜欢做认为有意义的事情,并完全投入其中
--  pr前一定要审核,自己的最好也看一下---否则你会拥有一个成绩
+-  pr前一定要审核,自己的最好也看一下---否则你会拥有一个成就
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ZY945">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy945&langs_count=3" />

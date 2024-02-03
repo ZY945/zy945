@@ -12,9 +12,9 @@
 -  专业是来修饰技术,而不是修饰人的,更不是困住我们的枷锁,任何所学都是有环境的,脱离环境讨论毫无意义,同时这也是为什么问问题时需要提供个人环境.
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ZY945">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy945&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy945&langs_count=3&theme=react" />
 </a>
 <a href="https://github.com/ZY945">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zy945&show_icons=true&line_height=27&count_private=true" alt="ZY's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zy945&show_icons=true&line_height=27&count_private=true&theme=react" alt="ZY's GitHub Stats" />
 </a>
 <p></p>

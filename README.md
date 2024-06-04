@@ -1,15 +1,12 @@
-### Hi there 👋
-- 🔭 一名开发者,喜欢分享,喜欢探索新技术,终身学习者
-- 🤔 对于时序和向量数据库不是很熟悉
-- 💬 有相关问题,十分乐意一起讨论
-- 🔭  A developer who enjoys sharing, exploring new technologies, and being a lifelong learner
-- 🤔  Not very familiar with temporal and vector databases
-- 💬  If you have any related questions, I am very willing to discuss them together
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/ZY945">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy945&langs_count=3&theme=react" />
-</a>
-<a href="https://github.com/ZY945">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zy945&show_icons=true&line_height=27&count_private=true&theme=react" alt="ZY's GitHub Stats" />
-</a>
-<p></p>
+<img align='left' src='github-metrics.svg'>
+
+**Status**
+
+[![wakatime](https://wakatime.com/badge/user/03bdf8cf-415d-486f-8326-1cb2a1c43d7d.svg)](https://wakatime.com/@03bdf8cf-415d-486f-8326-1cb2a1c43d7d)
+
+- Writing C++, C# and a little bit python.
+- Have five internship experience, also be rejected by many companies.
+
+```
+Life is a journey of your own.
+```

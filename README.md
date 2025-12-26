@@ -8,10 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zy945&show_icons=true&line_height=27&count_private=true&theme=react" alt="ZY's GitHub Stats" />
 </a>
 
-<a href="https://github.com/ZY945">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy945&layout=compact&langs_count=8&hide=css,scss,FreeMarker,Smalltalk&theme=github_dark" />
-</a>
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74083801" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74083801&image_size=auto&color_scheme=dark" width="771" height="auto">
